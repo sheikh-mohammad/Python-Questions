@@ -1,0 +1,32 @@
+# **Python Questions**
+
+- [**Chapter 1 ( PRINT STATEMENTS )**](chapter_01_print_satetments.md#chapter-1--print-statements-)
+  - [**Question 1**](chapter_01_print_satetments.md#question-1)
+  - [**Question 2**](chapter_01_print_satetments.md#question-2)
+  - [**Question 3**](chapter_01_print_satetments.md#question-3)
+  - [**Question 4**](chapter_01_print_satetments.md#question-4)
+  - [**Question 5**](chapter_01_print_satetments.md#question-5)
+  - [**Question 6**](chapter_01_print_satetments.md#question-6)
+  - [**Question 7**](chapter_01_print_satetments.md#question-7)
+  
+- [**Chapter 2 ( VARIABLES FOR STRINGS )**](chapter_02_variables_for_strings.md#chapter-2-variables-for-strings)
+  - [**Question 1**](chapter_02_variables_for_strings.md#question-1)
+  - [**Question 2**](chapter_02_variables_for_strings.md#question-2)
+  - [**Question 3**](chapter_02_variables_for_strings.md#question-3)
+  - [**Question 4**](chapter_02_variables_for_strings.md#question-4)
+  - [**Question 5**](chapter_02_variables_for_strings.md#question-5)
+  - [**Question 6**](chapter_02_variables_for_strings.md#question-6)
+  - [**Question 7**](chapter_02_variables_for_strings.md#question-7)
+  - [**Question 8**](chapter_02_variables_for_strings.md#question-8)
+  - [**Question 9**](chapter_02_variables_for_strings.md#question-9)
+
+- [**Chapter 3 ( VARIABLES FOR NUMBERS )**](chapter_03_variables_for_numbers.md#chapter-3-variables-for-numbers)
+  - [**Question 1**](chapter_03_variables_for_numbers.md#question-1)
+  - [**Question 2**](chapter_03_variables_for_numbers.md#question-2)
+  - [**Question 3**](chapter_03_variables_for_numbers.md#question-3)
+  - [**Question 4**](chapter_03_variables_for_numbers.md#question-4)
+
+- [**Chapter 4 ( VARIABLE NAMING RULES )**](chapter_04_variable_naming_rules.md#chapter_04_variable_naming_rules)
+  - [**Question 1**](chapter_04_variable_naming_rules.md#question-1)
+  - [**Question 2**](chapter_04_variable_naming_rules.md#question-2)
+  - [**Question 3**](chapter_04_variable_naming_rules.md#question-3)
